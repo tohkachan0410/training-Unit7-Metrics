@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and credentials
+.env
+.env.*
+.venv/
+venv/
+.netrc
+
+# Experiment tracking
+wandb/
+
+# Large/raw data
+# Keep data/splits/*.csv and data/annotations/*.csv tracked.
+data/raw/
+
+# Model weights and checkpoints
+outputs/checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Local backup / release bundles
+*.tar.gz
+train_6_complete_backup.tar.gz
+train_6_submission.tar.gz
+unit7_final_results_*/
+
+# LaTeX build artifacts
+# Do NOT ignore the report directory itself; final PDF can remain tracked.
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary data correction files
+corrected_original_500.csv
+path_fixes.csv
+data/all_.csv
+data/**/*.bak
+data/**/*before*.csv
+data/**/*removed*.csv
+data/**/*replacement*.csv
+data/**/*without*.csv
+data/*.docx
+
+# Temporary / smoke-test logs only
+outputs/logs/*smoke*
+outputs/logs/*run_smoke*

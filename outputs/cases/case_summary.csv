@@ -1,0 +1,16 @@
+case_type,case_order,image_id,image_path,copied_path
+agreement,1,p7_seed24,data/raw/p7_seed24.jpg,/home/u5450760/train_6/outputs/cases/agreement/agreement_01_p7_seed24.jpg
+agreement,2,5_13,data/raw/5_13.png,/home/u5450760/train_6/outputs/cases/agreement/agreement_02_5_13.png
+agreement,3,p04_s23,data/raw/p04_s23.png,/home/u5450760/train_6/outputs/cases/agreement/agreement_03_p04_s23.png
+agreement,4,p06_s25,data/raw/p06_s25.png,/home/u5450760/train_6/outputs/cases/agreement/agreement_04_p06_s25.png
+agreement,5,p08_s08,data/raw/p08_s08.png,/home/u5450760/train_6/outputs/cases/agreement/agreement_05_p08_s08.png
+human_only,1,4_29,data/raw/4_29.png,/home/u5450760/train_6/outputs/cases/human_only/human_only_01_4_29.png
+human_only,2,5_10,data/raw/5_10.png,/home/u5450760/train_6/outputs/cases/human_only/human_only_02_5_10.png
+human_only,3,5_19,data/raw/5_19.png,/home/u5450760/train_6/outputs/cases/human_only/human_only_03_5_19.png
+human_only,4,5_25,data/raw/5_25.png,/home/u5450760/train_6/outputs/cases/human_only/human_only_04_5_25.png
+human_only,5,5_3,data/raw/5_3.png,/home/u5450760/train_6/outputs/cases/human_only/human_only_05_5_3.png
+model_only,1,p08_s14,data/raw/p08_s14.png,/home/u5450760/train_6/outputs/cases/model_only/model_only_01_p08_s14.png
+model_only,2,p08_s06,data/raw/p08_s06.png,/home/u5450760/train_6/outputs/cases/model_only/model_only_02_p08_s06.png
+model_only,3,p08_s15,data/raw/p08_s15.png,/home/u5450760/train_6/outputs/cases/model_only/model_only_03_p08_s15.png
+model_only,4,6_1,data/raw/6_1.png,/home/u5450760/train_6/outputs/cases/model_only/model_only_04_6_1.png
+model_only,5,p03_s01,data/raw/p03_s01.png,/home/u5450760/train_6/outputs/cases/model_only/model_only_05_p03_s01.png

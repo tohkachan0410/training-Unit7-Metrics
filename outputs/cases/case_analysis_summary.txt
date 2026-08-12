@@ -1,0 +1,12 @@
+Training Unit7 Case Analysis
+============================
+
+Best method: vgg16_raw
+Intersection: 24
+Overlap: 0.24
+Jaccard: 0.1363636363636363
+AP: 0.2674353134973309
+
+Agreement count: 24
+Human-only count: 76
+Model-only count: 76

@@ -1,0 +1,19 @@
+name: unit7-binary
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pillow
+  - tqdm
+  - pyyaml
+  - pip
+  - pip:
+      - wandb
